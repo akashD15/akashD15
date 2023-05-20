@@ -1,7 +1,7 @@
 ![logo](https://github.com/akashD15/akashD15/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Akash Debnath</h1>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1C3J59LypI9HWIQmU0wmCY&ust=1684651843208000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDP3Kang_8CFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://github.com/akashD15/akashD15/blob/main/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashd15&label=Profile%20views&color=0e75b6&style=flat" alt="akashd15" /> </p>
 
