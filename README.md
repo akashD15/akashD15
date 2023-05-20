@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akash-debnath-002519220/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-debnath-002519220/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/akashdebnath3656/" target="blank">
+<a href="https://leetcode.com/akashdebnath3656/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/akashdebnath3656/" height="30" width="40" /></a>
 </p>
 
